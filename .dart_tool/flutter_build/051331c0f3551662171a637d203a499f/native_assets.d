@@ -1,0 +1,1 @@
+ /Users/gabrieladeraldo/Desktop/developer/MOBILE_CHALENGER/mobile_challenger_001/.dart_tool/flutter_build/051331c0f3551662171a637d203a499f/native_assets.yaml: 
